@@ -1,5 +1,14 @@
 package com.teachmeskills.lesson7.HW.task2;
 
+
+/**
+ * Task 2:
+ * Write the hierarchy of the classes Shape, Triangle, Rectangle, Circle.
+ * Implement a function for calculating the area for each type of figure and calculating the perimeter (using abstract class/methods).
+ * Create an array of 5 different shapes.
+ * Loop through the array and display information about each shape.
+ * Display the sum of the perimeters of all shapes in the array.
+ */
 public class Main {
     public static void main(String[] args) {
         int sum = 0;

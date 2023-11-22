@@ -2,6 +2,15 @@ package com.teachmeskills.lesson7.HW.task1;
 
 import java.util.Scanner;
 
+
+/**
+ *Task 1:
+ * Create classes "Director", "Worker", "Accountant".
+ * Implement an interface with a method that specifies the behavior for displaying the title position.
+ * Implement this method in the generated classes.
+ * Create a runner class using the Main method to run the program.
+ * Request the job code from the console and display the job title on the screen.
+ */
 public class Runner {
     public static void printMenu() {
         System.out.println("1. Director" + "\n" +
